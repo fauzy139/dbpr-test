@@ -1,4 +1,1 @@
-dbpr-test
-=========
-
-dbpr
+go run dbpr.go
